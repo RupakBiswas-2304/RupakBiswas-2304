@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="align-items:center">
 
 [![Rupak's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupakBiswas-2304&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,3 +22,5 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RupakBiswas-2304&repo=File_authentication&theme=dracula)](https://github.com/RupakBiswas-2304/File_authentication)
+
+  </div>
