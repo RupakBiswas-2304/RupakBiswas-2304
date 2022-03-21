@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [![Rupak's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupakBiswas-2304&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupakBiswas-2304&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RupakBiswas-2304&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
