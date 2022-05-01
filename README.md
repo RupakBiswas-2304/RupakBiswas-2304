@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RupakBiswas-2304&repo=File_authentication&theme=dracula)](https://github.com/RupakBiswas-2304/File_authentication)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RupakBiswas-2304&repo=pygoat&theme=dracula)](https://github.com/RupakBiswas-2304/pygoat)
